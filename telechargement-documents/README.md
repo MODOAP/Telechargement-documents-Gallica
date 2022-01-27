@@ -12,7 +12,7 @@ Ce carnet utilise l'API Document de Gallica (https://api.bnf.fr/fr/api-document-
 Nécessite un compte Google et la synchronisation d'un Drive.
 ## Utilisation
 
-1. Ouvrir le carnet dans l'interface Google Colab [![Open In Colab](colab.svg)](https://colab.research.google.com/github/paulbin501/t1/blob/main/t1.ipynb) et se connecter à un compte Google Drive ?????????????????????
+1. Ouvrir le carnet dans l'interface Google Colab et se connecter à un compte Google Drive 
 
 2. Lancer la première cellule "Préparation du script et synchronisation d'un Google Drive" et cliquer sur le lien généré pour synchroniser un compte Drive si demandé.
 Cette cellule importe les bibliothèques nécessaires à l'utilisation du carnet, et connecte un compte Drive.
@@ -24,5 +24,3 @@ Cette cellule importe les bibliothèques nécessaires à l'utilisation du carnet
 	- Préciser le format de téléchargement souhaité (JPG = un fichier par page, TXT ou PDF = l'ensemble du document)
 	- Préciser la taille des images à télécharger si le format JPG a été choisi. 
 	- Lancer la cellule 
-	
-Consulter un tutoriel sur l'utilisation générale des carnets Colab (?????????????????????????)
